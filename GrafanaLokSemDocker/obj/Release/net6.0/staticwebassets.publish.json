@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LJXKZ2Eh6YcY3S3X3DDttsHq7CH2jROzdxlHsfqx3FE=",
+  "Source": "GrafanaLokSemDocker",
+  "BasePath": "_content/GrafanaLokSemDocker",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
