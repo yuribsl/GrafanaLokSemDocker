@@ -1,0 +1,154 @@
+2024-02-29 12:06:56.511 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger - -
+2024-02-29 12:06:56.690 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger - - - 301 0 - 184.4119ms
+2024-02-29 12:06:56.697 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/index.html - -
+2024-02-29 12:06:56.765 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/index.html - - - 200 - text/html;charset=utf-8 67.9387ms
+2024-02-29 12:06:56.781 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/swagger-ui-standalone-preset.js - -
+2024-02-29 12:06:56.781 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/swagger-ui.css - -
+2024-02-29 12:06:56.781 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/swagger-ui-bundle.js - -
+2024-02-29 12:06:56.793 -03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-02-29 12:06:56.805 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - -
+2024-02-29 12:06:56.808 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/swagger-ui.css - - - 200 144929 text/css 26.9924ms
+2024-02-29 12:06:56.810 -03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-02-29 12:06:56.810 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 5.3642ms
+2024-02-29 12:06:56.813 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_vs/browserLink - -
+2024-02-29 12:06:56.814 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 33.4835ms
+2024-02-29 12:06:56.818 -03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-02-29 12:06:56.818 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 36.7943ms
+2024-02-29 12:06:56.860 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.4600ms
+2024-02-29 12:06:56.959 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - -
+2024-02-29 12:06:57.050 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 91.3244ms
+2024-02-29 12:07:01.458 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/WeatherForecast - -
+2024-02-29 12:07:01.467 -03:00 [INF] Executing endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:07:01.475 -03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[GrafanaLokSemDocker.WeatherForecast] Get() on controller GrafanaLokSemDocker.Controllers.WeatherForecastController (GrafanaLokSemDocker).
+2024-02-29 12:07:01.478 -03:00 [INF] pituba treinado
+2024-02-29 12:07:01.478 -03:00 [WRN] pituba destreinado
+2024-02-29 12:07:01.481 -03:00 [INF] Executing ObjectResult, writing value of type 'GrafanaLokSemDocker.WeatherForecast[]'.
+2024-02-29 12:07:01.491 -03:00 [INF] Executed action GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker) in 11.2738ms
+2024-02-29 12:07:01.491 -03:00 [INF] Executed endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:07:01.491 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/WeatherForecast - - - 200 - application/json;+charset=utf-8 33.3764ms
+2024-02-29 12:07:02.850 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/WeatherForecast - -
+2024-02-29 12:07:02.850 -03:00 [INF] Executing endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:07:02.850 -03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[GrafanaLokSemDocker.WeatherForecast] Get() on controller GrafanaLokSemDocker.Controllers.WeatherForecastController (GrafanaLokSemDocker).
+2024-02-29 12:07:02.851 -03:00 [INF] pituba treinado
+2024-02-29 12:07:02.851 -03:00 [WRN] pituba destreinado
+2024-02-29 12:07:02.851 -03:00 [INF] Executing ObjectResult, writing value of type 'GrafanaLokSemDocker.WeatherForecast[]'.
+2024-02-29 12:07:02.851 -03:00 [INF] Executed action GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker) in 0.4692ms
+2024-02-29 12:07:02.851 -03:00 [INF] Executed endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:07:02.851 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/WeatherForecast - - - 200 - application/json;+charset=utf-8 1.3705ms
+2024-02-29 12:08:53.090 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/index.html - -
+2024-02-29 12:08:53.309 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/index.html - - - 200 - text/html;charset=utf-8 225.7899ms
+2024-02-29 12:08:53.326 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_vs/browserLink - -
+2024-02-29 12:08:53.327 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - -
+2024-02-29 12:08:53.330 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 3.1993ms
+2024-02-29 12:08:53.372 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.5257ms
+2024-02-29 12:08:53.474 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - -
+2024-02-29 12:08:53.572 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 98.3223ms
+2024-02-29 12:09:10.128 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/WeatherForecast - -
+2024-02-29 12:09:10.136 -03:00 [INF] Executing endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:09:10.144 -03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[GrafanaLokSemDocker.WeatherForecast] Get() on controller GrafanaLokSemDocker.Controllers.WeatherForecastController (GrafanaLokSemDocker).
+2024-02-29 12:09:10.147 -03:00 [INF] pituba treinado
+2024-02-29 12:09:10.147 -03:00 [WRN] pituba destreinado
+2024-02-29 12:09:10.153 -03:00 [INF] Executing ObjectResult, writing value of type 'GrafanaLokSemDocker.WeatherForecast[]'.
+2024-02-29 12:09:10.163 -03:00 [INF] Executed action GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker) in 14.1745ms
+2024-02-29 12:09:10.163 -03:00 [INF] Executed endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:09:10.163 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/WeatherForecast - - - 200 - application/json;+charset=utf-8 35.0323ms
+2024-02-29 12:09:15.832 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/WeatherForecast - -
+2024-02-29 12:09:15.833 -03:00 [INF] Executing endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:09:15.833 -03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[GrafanaLokSemDocker.WeatherForecast] Get() on controller GrafanaLokSemDocker.Controllers.WeatherForecastController (GrafanaLokSemDocker).
+2024-02-29 12:09:16.949 -03:00 [INF] pituba treinado
+2024-02-29 12:09:17.154 -03:00 [WRN] pituba destreinado
+2024-02-29 12:09:18.354 -03:00 [INF] Executing ObjectResult, writing value of type 'GrafanaLokSemDocker.WeatherForecast[]'.
+2024-02-29 12:09:18.355 -03:00 [INF] Executed action GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker) in 2521.8792ms
+2024-02-29 12:09:18.356 -03:00 [INF] Executed endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:09:18.358 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/WeatherForecast - - - 200 - application/json;+charset=utf-8 2523.6606ms
+2024-02-29 12:17:46.052 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/index.html - -
+2024-02-29 12:17:46.270 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/index.html - - - 200 - text/html;charset=utf-8 223.3397ms
+2024-02-29 12:17:46.289 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_vs/browserLink - -
+2024-02-29 12:17:46.289 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - -
+2024-02-29 12:17:46.292 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 3.0218ms
+2024-02-29 12:17:46.335 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.5265ms
+2024-02-29 12:17:46.371 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - -
+2024-02-29 12:17:46.452 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 80.7140ms
+2024-02-29 12:17:48.965 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/WeatherForecast - -
+2024-02-29 12:17:48.973 -03:00 [INF] Executing endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:17:48.980 -03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[GrafanaLokSemDocker.WeatherForecast] Get() on controller GrafanaLokSemDocker.Controllers.WeatherForecastController (GrafanaLokSemDocker).
+2024-02-29 12:17:48.986 -03:00 [INF] pituba treinado
+2024-02-29 12:17:48.998 -03:00 [WRN] pituba destreinado
+2024-02-29 12:17:49.004 -03:00 [INF] Executing ObjectResult, writing value of type 'GrafanaLokSemDocker.WeatherForecast[]'.
+2024-02-29 12:17:49.014 -03:00 [INF] Executed action GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker) in 28.9862ms
+2024-02-29 12:17:49.014 -03:00 [INF] Executed endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:17:49.014 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/WeatherForecast - - - 200 - application/json;+charset=utf-8 49.4396ms
+2024-02-29 12:25:09.804 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/index.html - -
+2024-02-29 12:25:10.023 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/index.html - - - 200 - text/html;charset=utf-8 223.6980ms
+2024-02-29 12:25:10.029 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - -
+2024-02-29 12:25:10.031 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 2.9082ms
+2024-02-29 12:25:10.036 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_vs/browserLink - -
+2024-02-29 12:25:10.082 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.9554ms
+2024-02-29 12:25:10.119 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - -
+2024-02-29 12:25:10.204 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 84.4689ms
+2024-02-29 12:25:11.950 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/WeatherForecast - -
+2024-02-29 12:25:11.957 -03:00 [INF] Executing endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:25:11.965 -03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[GrafanaLokSemDocker.WeatherForecast] Get() on controller GrafanaLokSemDocker.Controllers.WeatherForecastController (GrafanaLokSemDocker).
+2024-02-29 12:25:11.971 -03:00 [INF] pituba treinado
+2024-02-29 12:25:11.984 -03:00 [WRN] pituba destreinado
+2024-02-29 12:25:11.991 -03:00 [INF] Executing ObjectResult, writing value of type 'GrafanaLokSemDocker.WeatherForecast[]'.
+2024-02-29 12:25:12.000 -03:00 [INF] Executed action GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker) in 30.8215ms
+2024-02-29 12:25:12.000 -03:00 [INF] Executed endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 12:25:12.001 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/WeatherForecast - - - 200 - application/json;+charset=utf-8 50.9482ms
+2024-02-29 15:54:02.956 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/index.html - -
+2024-02-29 15:54:03.202 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/index.html - - - 200 - text/html;charset=utf-8 251.0468ms
+2024-02-29 15:54:03.210 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - -
+2024-02-29 15:54:03.214 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 3.2361ms
+2024-02-29 15:54:03.216 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_vs/browserLink - -
+2024-02-29 15:54:03.445 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 229.8532ms
+2024-02-29 15:54:03.482 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - -
+2024-02-29 15:54:03.569 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 86.2660ms
+2024-02-29 15:54:06.869 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/WeatherForecast - -
+2024-02-29 15:54:06.877 -03:00 [INF] Executing endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 15:54:06.888 -03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[GrafanaLokSemDocker.WeatherForecast] Get() on controller GrafanaLokSemDocker.Controllers.WeatherForecastController (GrafanaLokSemDocker).
+2024-02-29 15:54:08.889 -03:00 [INF] pituba treinado
+2024-02-29 15:54:09.133 -03:00 [WRN] pituba destreinado
+2024-02-29 15:54:10.226 -03:00 [INF] Executing ObjectResult, writing value of type 'GrafanaLokSemDocker.WeatherForecast[]'.
+2024-02-29 15:54:10.235 -03:00 [INF] Executed action GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker) in 3343.2668ms
+2024-02-29 15:54:10.237 -03:00 [INF] Executed endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-02-29 15:54:10.237 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/WeatherForecast - - - 200 - application/json;+charset=utf-8 3368.2009ms
+2024-05-23 14:03:20.539 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger - -
+2024-05-23 14:03:20.734 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger - - - 301 0 - 199.7661ms
+2024-05-23 14:03:20.741 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/index.html - -
+2024-05-23 14:03:20.799 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/index.html - - - 200 - text/html;charset=utf-8 57.8708ms
+2024-05-23 14:03:20.804 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - -
+2024-05-23 14:03:20.804 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/swagger-ui-standalone-preset.js - -
+2024-05-23 14:03:20.805 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/swagger-ui-bundle.js - -
+2024-05-23 14:03:20.805 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/swagger-ui.css - -
+2024-05-23 14:03:20.808 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 3.2699ms
+2024-05-23 14:03:20.819 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_vs/browserLink - -
+2024-05-23 14:03:20.842 -03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-23 14:03:20.842 -03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-23 14:03:20.846 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/swagger-ui.css - - - 200 144929 text/css 41.5644ms
+2024-05-23 14:03:20.847 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 42.7916ms
+2024-05-23 14:03:20.857 -03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-23 14:03:20.857 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 52.0208ms
+2024-05-23 14:03:20.898 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 79.5746ms
+2024-05-23 14:03:20.983 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - -
+2024-05-23 14:03:21.037 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/favicon-32x32.png - -
+2024-05-23 14:03:21.038 -03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-23 14:03:21.038 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/favicon-32x32.png - - - 200 628 image/png 0.3830ms
+2024-05-23 14:03:21.066 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 83.0512ms
+2024-05-23 14:03:51.106 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/WeatherForecast - -
+2024-05-23 14:03:51.115 -03:00 [INF] Executing endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-05-23 14:03:51.123 -03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[GrafanaLokSemDocker.WeatherForecast] Get() on controller GrafanaLokSemDocker.Controllers.WeatherForecastController (GrafanaLokSemDocker).
+2024-05-23 14:03:52.723 -03:00 [INF] pituba treinado
+2024-05-23 14:03:52.869 -03:00 [WRN] pituba destreinado
+2024-05-23 14:04:19.722 -03:00 [INF] Executing ObjectResult, writing value of type 'GrafanaLokSemDocker.WeatherForecast[]'.
+2024-05-23 14:04:19.732 -03:00 [INF] Executed action GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker) in 28604.7142ms
+2024-05-23 14:04:19.733 -03:00 [INF] Executed endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-05-23 14:04:19.734 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/WeatherForecast - - - 200 - application/json;+charset=utf-8 28627.5072ms
+2024-05-23 14:14:34.391 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/WeatherForecast - -
+2024-05-23 14:14:34.393 -03:00 [INF] Executing endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-05-23 14:14:34.394 -03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[GrafanaLokSemDocker.WeatherForecast] Get() on controller GrafanaLokSemDocker.Controllers.WeatherForecastController (GrafanaLokSemDocker).
+2024-05-23 14:14:36.626 -03:00 [INF] pituba treinado
+2024-05-23 14:14:36.629 -03:00 [WRN] pituba destreinado
+2024-05-23 14:14:36.629 -03:00 [INF] Executing ObjectResult, writing value of type 'GrafanaLokSemDocker.WeatherForecast[]'.
+2024-05-23 14:14:36.629 -03:00 [INF] Executed action GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker) in 2235.4407ms
+2024-05-23 14:14:36.629 -03:00 [INF] Executed endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
+2024-05-23 14:14:36.630 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/WeatherForecast - - - 200 - application/json;+charset=utf-8 2242.8792ms
