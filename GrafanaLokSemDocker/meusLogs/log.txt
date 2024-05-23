@@ -152,3 +152,22 @@
 2024-05-23 14:14:36.629 -03:00 [INF] Executed action GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker) in 2235.4407ms
 2024-05-23 14:14:36.629 -03:00 [INF] Executed endpoint 'GrafanaLokSemDocker.Controllers.WeatherForecastController.Get (GrafanaLokSemDocker)'
 2024-05-23 14:14:36.630 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/WeatherForecast - - - 200 - application/json;+charset=utf-8 2242.8792ms
+2024-05-23 16:03:24.494 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger - -
+2024-05-23 16:03:24.676 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger - - - 301 0 - 185.6202ms
+2024-05-23 16:03:24.683 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/index.html - -
+2024-05-23 16:03:24.734 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/index.html - - - 200 - text/html;charset=utf-8 51.2334ms
+2024-05-23 16:03:24.740 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - -
+2024-05-23 16:03:24.740 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/swagger-ui-standalone-preset.js - -
+2024-05-23 16:03:24.740 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/swagger-ui.css - -
+2024-05-23 16:03:24.740 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/swagger-ui-bundle.js - -
+2024-05-23 16:03:24.742 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 2.6511ms
+2024-05-23 16:03:24.757 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/_vs/browserLink - -
+2024-05-23 16:03:24.769 -03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-23 16:03:24.769 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 29.5208ms
+2024-05-23 16:03:24.776 -03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-23 16:03:24.778 -03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-23 16:03:24.779 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/swagger-ui.css - - - 200 144929 text/css 39.3799ms
+2024-05-23 16:03:24.779 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 39.3431ms
+2024-05-23 16:03:24.832 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 74.7975ms
+2024-05-23 16:03:24.902 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - -
+2024-05-23 16:03:24.979 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7195/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 77.0255ms

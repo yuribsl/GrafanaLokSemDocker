@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrafanaLokSemDocker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37ba057a84b79a2afd7f5c6eae02c90daea85cbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfa1f942a2aa3cf40351dc1ce6c9c8e24326cecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrafanaLokSemDocker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrafanaLokSemDocker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

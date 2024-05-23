@@ -42,3 +42,4 @@ C:\Users\yuri_\OneDrive\Documentos\Projetos Meus\GrafanaLokiSemDocker\GrafanaLok
 C:\Users\yuri_\OneDrive\Documentos\Projetos Meus\GrafanaLokiSemDocker\GrafanaLokSemDocker\GrafanaLokSemDocker\obj\Debug\net6.0\ref\GrafanaLokSemDocker.dll
 C:\Users\yuri_\OneDrive\Documentos\Projetos Meus\GrafanaLokiSemDocker\GrafanaLokSemDocker\GrafanaLokSemDocker\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\yuri_\OneDrive\Documentos\Projetos Meus\GrafanaLokiSemDocker\GrafanaLokSemDocker\GrafanaLokSemDocker\obj\Debug\net6.0\GrafanaL.C1A3DB98.Up2Date
+C:\Users\yuri_\OneDrive\Documentos\Projetos Meus\GrafanaLokiSemDocker\GrafanaLokSemDocker\GrafanaLokSemDocker\obj\Debug\net6.0\GrafanaLokSemDocker.sourcelink.json

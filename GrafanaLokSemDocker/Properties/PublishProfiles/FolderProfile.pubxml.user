@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Publicacao\GrafanaLokiSemDocker</_PublishTargetUrl>
-    <History>True|2024-05-23T18:56:29.7387963Z;</History>
+    <History>True|2024-05-23T19:07:47.4145432Z;True|2024-05-23T16:07:14.6519138-03:00;False|2024-05-23T16:07:04.6807813-03:00;True|2024-05-23T16:05:25.4635314-03:00;True|2024-05-23T15:56:29.7387963-03:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
